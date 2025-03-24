@@ -1,0 +1,2 @@
+# Reproducing Riess' "Evidence of an Accelerating Universe from Type Ia Supernovae"
+This is a simple review of Adam Riess' paper "Evidence of an Accelerating Universe from Type Ia Supernovae", which was awarded a Nobel Prize in 1998.
